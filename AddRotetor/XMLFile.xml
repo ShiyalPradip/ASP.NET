@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisments>
+  <Ad>
+    <ImageUrl> FlipKart.jpg</ImageUrl>
+    <NavigateUrl> https://www.flipkart.com/ </NavigateUrl>
+    <AlternateText> Flipkart </AlternateText>
+    <Impressions> 10 </Impressions>
+    <Keyword> FlipKart </Keyword>
+    <Height> 150 </Height>
+    <Width> 150 </Width>
+  </Ad>
+</Advertisments>
